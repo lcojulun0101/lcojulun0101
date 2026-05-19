@@ -38,4 +38,3 @@
 ### Contacto:
 
 - **Correo:** cojulun14 (at) gmail (dot) com
-- **LinkedIn:** www.linkedin.com/in/luis-eduardo-cojulún-alvarado-a65964245
