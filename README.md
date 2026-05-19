@@ -29,12 +29,6 @@
 
 ---
 
-### Actividad en Github:
-
-![Estadísticas de lcojulun0101](https://github-readme-stats.vercel.app/api?username=lcojulun0101&show_icons=true&theme=tokyonight&count_private=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=lcojulun0101&layout=compact&theme=tokyonight)
-
 ### Contacto:
 
 - **Correo:** cojulun14 (at) gmail (dot) com
