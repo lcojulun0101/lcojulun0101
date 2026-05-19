@@ -22,11 +22,6 @@
     - **Python y SQL:** Ciencia de datos y backend.
     - **Inteligencia artificial:** Fundamentos y lógica aplicada.
 
-- #### **Desarrollo Web (técnico Full Stack):**
-    - **Estructura y estilo:** HTML - CSS.
-    - **Control de Versiones:** Manejo profesional de GIT y Github.
-    - **Programación Web:** Introducción a la lógica y estructuras con Javascript.
-
 ---
 
 ### Contacto:
